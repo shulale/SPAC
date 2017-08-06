@@ -4,4 +4,4 @@ Escrow
 
 Warrant
 
-Voting mechanism
+Voting event
