@@ -1,7 +1,8 @@
 # SPAC - Special Purpose Acquisition Contract
-ICO structure to fund and participate in value creation of Blockchain adoption in real economy.
+ICO based structure to fund and participate in value creation of Blockchain adoption in real economy.
 
-Concept based on investment funds structuring that allow public investors to invest in private equity transactions executed by merging with or acquiring a company with the proceeds of fund’s initial public offering. Modifications to crypto SPAC are proposed to account for cryptocurrency environment. 
+Based on investment funds structuring that allow public investors to invest in private equity transactions executed by merging with or acquiring a company with the proceeds of fund’s initial public offering. Modifications to crypto SPAC are proposed to account for cryptocurrency environment. 
+
 Proposed structure incentivizes the following outcomes:
 To fund adoption of blockchain in certain niche through acquisition of the existing market player
 To grow value of the acquired assets via use of proceeds and capturing blockchain-related synergies adopted by acquired player
