@@ -4,7 +4,7 @@ Purpose – provide tools to raise capital at ICO to finance acquisitions requir
 Please see full description of ICO related SPAC in Wiki
 
 
-Escrow - collects and hold funds of ICO participants
+Escrow - collects and holds funds of ICO participants
 
 
 Warrant - enable token holder to invest more capital at a pre-determined price
